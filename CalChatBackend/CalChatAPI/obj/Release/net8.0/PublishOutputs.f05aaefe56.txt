@@ -1,0 +1,17 @@
+C:\Users\NEHI\Downloads\CalChatmain\CalChatBackend\CalChatAPI\bin\Release\net8.0\publish\CalChatAPI.exe
+C:\Users\NEHI\Downloads\CalChatmain\CalChatBackend\CalChatAPI\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\NEHI\Downloads\CalChatmain\CalChatBackend\CalChatAPI\bin\Release\net8.0\publish\appsettings.json
+C:\Users\NEHI\Downloads\CalChatmain\CalChatBackend\CalChatAPI\bin\Release\net8.0\publish\CalChatAPI.dll
+C:\Users\NEHI\Downloads\CalChatmain\CalChatBackend\CalChatAPI\bin\Release\net8.0\publish\CalChatAPI.runtimeconfig.json
+C:\Users\NEHI\Downloads\CalChatmain\CalChatBackend\CalChatAPI\bin\Release\net8.0\publish\CalChatAPI.pdb
+C:\Users\NEHI\Downloads\CalChatmain\CalChatBackend\CalChatAPI\bin\Release\net8.0\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\NEHI\Downloads\CalChatmain\CalChatBackend\CalChatAPI\bin\Release\net8.0\publish\Microsoft.EntityFrameworkCore.dll
+C:\Users\NEHI\Downloads\CalChatmain\CalChatBackend\CalChatAPI\bin\Release\net8.0\publish\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\NEHI\Downloads\CalChatmain\CalChatBackend\CalChatAPI\bin\Release\net8.0\publish\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\NEHI\Downloads\CalChatmain\CalChatBackend\CalChatAPI\bin\Release\net8.0\publish\Microsoft.OpenApi.dll
+C:\Users\NEHI\Downloads\CalChatmain\CalChatBackend\CalChatAPI\bin\Release\net8.0\publish\Npgsql.dll
+C:\Users\NEHI\Downloads\CalChatmain\CalChatBackend\CalChatAPI\bin\Release\net8.0\publish\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\NEHI\Downloads\CalChatmain\CalChatBackend\CalChatAPI\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\NEHI\Downloads\CalChatmain\CalChatBackend\CalChatAPI\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\NEHI\Downloads\CalChatmain\CalChatBackend\CalChatAPI\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\NEHI\Downloads\CalChatmain\CalChatBackend\CalChatAPI\bin\Release\net8.0\publish\CalChatAPI.deps.json

@@ -1,0 +1,14 @@
+C:\Users\NEHI\Downloads\CalChatmain\publish\CalChatAPI.exe
+C:\Users\NEHI\Downloads\CalChatmain\publish\appsettings.Development.json
+C:\Users\NEHI\Downloads\CalChatmain\publish\appsettings.json
+C:\Users\NEHI\Downloads\CalChatmain\publish\CalChatAPI.dll
+C:\Users\NEHI\Downloads\CalChatmain\publish\CalChatAPI.runtimeconfig.json
+C:\Users\NEHI\Downloads\CalChatmain\publish\CalChatAPI.pdb
+C:\Users\NEHI\Downloads\CalChatmain\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\NEHI\Downloads\CalChatmain\publish\Microsoft.EntityFrameworkCore.dll
+C:\Users\NEHI\Downloads\CalChatmain\publish\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\NEHI\Downloads\CalChatmain\publish\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\NEHI\Downloads\CalChatmain\publish\Microsoft.OpenApi.dll
+C:\Users\NEHI\Downloads\CalChatmain\publish\Npgsql.dll
+C:\Users\NEHI\Downloads\CalChatmain\publish\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\NEHI\Downloads\CalChatmain\publish\CalChatAPI.deps.json
