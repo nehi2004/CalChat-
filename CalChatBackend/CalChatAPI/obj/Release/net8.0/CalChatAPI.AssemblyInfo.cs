@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalChatAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e570c9246f8514089e245bbe8c0dbd5bf5ff78f0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+570bae9e6ff7b922214c95ae974cb2ed45df5814")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalChatAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalChatAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
